@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "641265925273",
+    "firebase_url": "https://chat-app-e6d9e-default-rtdb.firebaseio.com",
     "project_id": "chat-app-e6d9e",
     "storage_bucket": "chat-app-e6d9e.appspot.com"
   },
